@@ -20,7 +20,7 @@ peterhurford/batchman
 robertzk/microserver
 robertzk/hipchat
 robertzk/mungebits2
-robertzk/K.R
+robertzk/k
 jimhester/covr", "\n")[[1]]
 
 
@@ -29,6 +29,7 @@ install_all <- function() {
   for (pkg in .all_packages) {
     pkg_name <- gsub("^[^/]+/", "", pkg)
     if (pkg_name == "aws-tools") pkg_name <- "AWS.tools"
+    if (pkg_name == "r") pkg_name <- "K.R"
     if (!pkg_name %in% installed.packages()[,1]) {
       devtools::install_github(pkg)
     }
