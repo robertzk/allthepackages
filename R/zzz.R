@@ -26,7 +26,9 @@ jimhester/covr", "\n")[[1]]
 
 .onAttach <- function(...) {
   for (pkg in .all_packages) {
-    if (!gsub("^[^/]+/", "", pkg) %in% installed.packages()[,1]) {
+    pkg <- gsub("^[^/]+/", "", pkg)
+    if (pkg == "aws-tools") pkg <- "AWS.tools"
+    if (! %in% installed.packages()[,1]) {
       devtools::install_github(pkg)
     }
   }
