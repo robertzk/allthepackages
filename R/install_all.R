@@ -29,7 +29,7 @@ install_all <- function() {
   for (pkg in .all_packages) {
     pkg_name <- gsub("^[^/]+/", "", pkg)
     if (pkg_name == "aws-tools") pkg_name <- "AWS.tools"
-    if (pkg_name == "r") pkg_name <- "K.R"
+    if (pkg_name == "r") pkg_name <- "k"
     if (!pkg_name %in% installed.packages()[,1]) {
       devtools::install_github(pkg)
     }
