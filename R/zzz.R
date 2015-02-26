@@ -28,7 +28,7 @@ jimhester/covr", "\n")[[1]]
   for (pkg in .all_packages) {
     pkg <- gsub("^[^/]+/", "", pkg)
     if (pkg == "aws-tools") pkg <- "AWS.tools"
-    if (! %in% installed.packages()[,1]) {
+    if (!pkg %in% installed.packages()[,1]) {
       devtools::install_github(pkg)
     }
   }
