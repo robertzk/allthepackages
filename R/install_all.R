@@ -20,8 +20,7 @@ peterhurford/batchman
 robertzk/microserver
 robertzk/hipchat
 robertzk/mungebits2
-robertzk/k
-jimhester/covr", "\n")[[1]]
+robertzk/k, "\n")[[1]]
 
 
 #' @export
