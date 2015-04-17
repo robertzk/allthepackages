@@ -1,5 +1,7 @@
 .all_packages <- strsplit("avantcredit/aws-tools
 hadley/purrr
+robertzk/lockbox
+robertzk/bettertrace
 robertzk/Ramd
 robertzk/testthatsomemore
 robertzk/objectdiff
@@ -16,11 +18,15 @@ robertzk/s3mpi
 robertzk/productivus
 robertzk/berdie
 robertzk/cachemeifyoucan
+peterhurford/paris
+peterhurford/batbelt
 peterhurford/batchman
 robertzk/microserver
 robertzk/hipchat
 robertzk/mungebits2
 robertzk/k
+kirillseva/dokk
+kirillseva/kunteynir
 jimhester/covr", "\n")[[1]]
 
 
