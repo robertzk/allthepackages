@@ -18,7 +18,6 @@ robertzk/s3mpi
 robertzk/productivus
 robertzk/berdie
 robertzk/cachemeifyoucan
-peterhurford/paris
 peterhurford/batbelt
 peterhurford/batchman
 robertzk/microserver
