@@ -26,6 +26,7 @@ robertzk/mungebits2
 robertzk/k
 kirillseva/dokk
 kirillseva/kunteynir
+robertzk/lookR
 jimhester/covr", "\n")[[1]]
 
 
