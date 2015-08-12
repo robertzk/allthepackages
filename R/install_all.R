@@ -23,7 +23,6 @@ peterhurford/batchman
 robertzk/microserver
 robertzk/hipchat
 robertzk/mungebits2
-robertzk/k
 kirillseva/dokk
 kirillseva/kunteynir
 jimhester/covr", "\n")[[1]]
