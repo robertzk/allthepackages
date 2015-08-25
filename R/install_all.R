@@ -16,6 +16,9 @@ robertzk/syberiaStages
 robertzk/syberia
 robertzk/s3mpi
 robertzk/productivus
+RcppCore/Rcpp
+rstats-db/DBI
+rstats-db/RPostgres
 robertzk/berdie
 robertzk/cachemeifyoucan
 peterhurford/batbelt
@@ -26,6 +29,7 @@ robertzk/mungebits2
 robertzk/RDS2
 kirillseva/dokk
 kirillseva/kunteynir
+robertzk/lookR
 jimhester/covr", "\n")[[1]]
 
 

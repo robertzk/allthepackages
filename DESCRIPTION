@@ -28,5 +28,13 @@ Imports:
     rJava,
     yaml,
     RJDBC,
-    RPostgreSQL
+    RPostgreSQL,
+    RJSONIO,
+    AUC,
+    R.Utils,
+    base64enc,
+    pROC,
+    rjson,
+    setwidth,
+    rlist
 Roxygen: list(wrap = FALSE)
