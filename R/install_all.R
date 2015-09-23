@@ -35,6 +35,8 @@ jimhester/covr", "\n")[[1]]
 
 #' @export
 install_all <- function() {
+  message("Removing prior DBI installation...")
+  remove.packages("DBI")
   for (pkg in .all_packages) {
     message("Installing ", pkg, "...")
     pkg_name <- gsub("^[^/]+/", "", pkg)
