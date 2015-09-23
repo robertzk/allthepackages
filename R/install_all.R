@@ -30,6 +30,7 @@ robertzk/productivus
 rstats-db/DBI
 rstats-db/RPostgres
 cran/RPostgreSQL
+cran/pROC
 robertzk/berdie
 robertzk/cachemeifyoucan
 peterhurford/batbelt
