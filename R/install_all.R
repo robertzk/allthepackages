@@ -35,6 +35,7 @@ jimhester/covr", "\n")[[1]]
 #' @export
 install_all <- function() {
   for (pkg in .all_packages) {
+    message("Installing ", pkg, "...")
     pkg_name <- gsub("^[^/]+/", "", pkg)
     if (pkg_name == "aws-tools") pkg_name <- "AWS.tools"
     if (pkg_name == "r") pkg_name <- "K.R"
