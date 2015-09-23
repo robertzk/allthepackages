@@ -45,8 +45,10 @@ jimhester/covr", "\n")[[1]]
 
 #' @export
 install_all <- function() {
-  message("Removing prior DBI installation...")
-  remove.packages("DBI")
+  if ("DBI" %in% installed.packages()[,1]) {
+    message("Removing prior DBI installation...")
+    remove.packages("DBI")
+  }
   for (pkg in .all_packages) {
     pkg_name <- gsub("^[^/]+/", "", pkg)
     if (pkg_name == "aws-tools") pkg_name <- "AWS.tools"
