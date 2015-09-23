@@ -1,4 +1,5 @@
-.all_packages <- strsplit("avantcredit/aws-tools
+.all_packages <- strsplit(
+"avantcredit/aws-tools
 hadley/purrr
 robertzk/lockbox
 robertzk/bettertrace
