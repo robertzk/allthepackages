@@ -1,5 +1,15 @@
 .all_packages <- strsplit(
 "avantcredit/aws-tools
+cran/ggplot2
+cran/crayon
+cran/microbenchmark
+cran/knitr
+cran/lubridate
+cran/testthat
+cran/memoise
+cran/rJava
+cran/yaml
+cran/RJDBC
 hadley/purrr
 robertzk/lockbox
 robertzk/bettertrace

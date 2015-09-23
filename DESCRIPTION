@@ -12,21 +12,5 @@ Depends:
 License: MIT
 LazyData: true
 Imports:
-    stringr,
-    devtools,
-    ggplot2,
-    crayon,
-    microbenchmark,
-    knitr,
-    timeDate,
-    lubridate,
-    testthat,
-    caret,
-    arules,
-    pbapply,
-    memoise,
-    rJava,
-    yaml,
-    RJDBC,
-    RPostgreSQL
+    devtools
 Roxygen: list(wrap = FALSE)
