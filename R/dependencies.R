@@ -63,5 +63,3 @@ install_github_packages <- function(pkgs, apply_method = lapply) {
       envir = as.environment('package:devtools'))
   })
 }
-
-
