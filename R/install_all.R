@@ -48,12 +48,14 @@ install_all <- function() {
   message("Removing prior DBI installation...")
   remove.packages("DBI")
   for (pkg in .all_packages) {
-    message("Installing ", pkg, "...")
     pkg_name <- gsub("^[^/]+/", "", pkg)
     if (pkg_name == "aws-tools") pkg_name <- "AWS.tools"
     if (pkg_name == "r") pkg_name <- "K.R"
     if (!pkg_name %in% installed.packages()[,1]) {
+      message("Installing ", pkg, "...")
       devtools::install_github(pkg)
+    } else {
+      cat(pkg, "already installed...\n")
     }
   }
 }
