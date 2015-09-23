@@ -40,6 +40,8 @@ robertzk/mungebits2
 robertzk/RDS2
 kirillseva/dokk
 kirillseva/kunteynir
+robertzk/lookr
+avantcredit/fookr
 jimhester/covr", "\n")[[1]]
 
 
