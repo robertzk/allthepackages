@@ -19,6 +19,7 @@ robertzk/s3mpi
 robertzk/productivus
 rstats-db/DBI
 rstats-db/RPostgres
+cran/RPostgreSQL
 robertzk/berdie
 robertzk/cachemeifyoucan
 peterhurford/batbelt
