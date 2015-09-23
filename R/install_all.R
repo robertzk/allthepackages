@@ -16,6 +16,8 @@ robertzk/syberiaStages
 robertzk/syberia
 robertzk/s3mpi
 robertzk/productivus
+rstats-db/RPostgres
+rstats-db/DBI
 robertzk/berdie
 robertzk/cachemeifyoucan
 peterhurford/batbelt
