@@ -28,7 +28,7 @@ robertzk/syberia
 robertzk/s3mpi
 robertzk/productivus
 rstats-db/DBI
-rstats-db/RPostgres
+robertzk/RPostgres
 cran/RPostgreSQL
 cran/pROC
 cran/zoo
