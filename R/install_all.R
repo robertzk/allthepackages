@@ -41,6 +41,7 @@ robertzk/microserver
 robertzk/hipchat
 robertzk/mungebits2
 robertzk/RDS2
+robertzk/recombinator
 kirillseva/dokk
 kirillseva/kunteynir
 robertzk/lookr
