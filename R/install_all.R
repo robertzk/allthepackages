@@ -25,6 +25,7 @@ robertzk/syberiaMungebits
 robertzk/syberiaStructure
 robertzk/syberiaStages
 robertzk/syberia
+kirillseva/cacher
 robertzk/s3mpi
 robertzk/productivus
 rstats-db/DBI
@@ -40,9 +41,9 @@ robertzk/microserver
 robertzk/hipchat
 robertzk/mungebits2
 robertzk/RDS2
+robertzk/recombinator
 kirillseva/dokk
 kirillseva/kunteynir
-kirillseva/cacher
 robertzk/lookr
 avantcredit/fookr
 jimhester/covr", "\n")[[1]]
