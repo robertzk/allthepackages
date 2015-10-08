@@ -25,6 +25,7 @@ robertzk/syberiaMungebits
 robertzk/syberiaStructure
 robertzk/syberiaStages
 robertzk/syberia
+kirillseva/cacher
 robertzk/s3mpi
 robertzk/productivus
 rstats-db/DBI
