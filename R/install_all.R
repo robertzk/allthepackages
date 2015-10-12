@@ -29,7 +29,7 @@ kirillseva/cacher
 robertzk/s3mpi
 robertzk/productivus
 rstats-db/DBI
-robertzk/RPostgres
+robertzk/RPostgres@fix_type_issues
 cran/RPostgreSQL
 cran/pROC
 cran/zoo
