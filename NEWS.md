@@ -1,3 +1,7 @@
+# Version 0.1.5
+
+* Add dbtest.
+
 # Version 0.1.4
 
 * Change to our fork of RPostgres until Hadley fixes his.
