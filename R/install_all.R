@@ -14,7 +14,7 @@ hadley/purrr
 robertzk/lockbox
 robertzk/bettertrace
 robertzk/Ramd
-robertzk/testthatsomemore
+robertzk/testthatsomemored
 robertzk/objectdiff
 robertzk/stagerunner
 robertzk/director
@@ -34,6 +34,7 @@ cran/RPostgreSQL
 cran/pROC
 cran/zoo
 robertzk/berdie
+avantcredit/dbtest
 robertzk/cachemeifyoucan
 peterhurford/batbelt
 peterhurford/batchman
@@ -46,8 +47,7 @@ kirillseva/dokk
 kirillseva/kunteynir
 robertzk/lookr
 avantcredit/fookr
-jimhester/covr
-avantcredit/dbtest", "\n")[[1]]
+jimhester/covr", "\n")[[1]]
 
 
 #' @export
