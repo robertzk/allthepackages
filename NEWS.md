@@ -1,3 +1,7 @@
+# Version 0.1.6
+
+* Fix order of installing for dbtest.
+
 # Version 0.1.5
 
 * Add dbtest.
