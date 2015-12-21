@@ -14,7 +14,7 @@ hadley/purrr
 robertzk/lockbox
 robertzk/bettertrace
 robertzk/Ramd
-robertzk/testthatsomemored
+robertzk/testthatsomemore
 robertzk/objectdiff
 robertzk/stagerunner
 robertzk/director
